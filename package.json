@@ -2,7 +2,7 @@
   "name": "aplikacija",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ip-code.github.io/react-typescript-portfolio",
+  "homepage": "https://ip-code.github.io/react-typescript-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -11,8 +11,10 @@
     "@types/node": "^13.7.7",
     "@types/react": "^16.9.23",
     "@types/react-dom": "^16.9.5",
+    "bootstrap": "^4.4.1",
     "gh-pages": "^2.2.0",
     "react": "^16.13.0",
+    "react-bootstrap": "^1.0.0-beta.17",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
     "typescript": "^3.8.3"
