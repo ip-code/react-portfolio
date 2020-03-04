@@ -1,5 +1,3 @@
-Minimalist portfolio made with React and Typescript.
-
 This project was bootstrapped with [Create React App Typscript Template](https://create-react-app.dev/docs/adding-typescript/).
 
 [Live demo](https://ip-code.github.io/react-portfolio)
